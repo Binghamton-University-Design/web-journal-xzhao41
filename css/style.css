@@ -40,7 +40,8 @@ aside {
   
 }
 
-body {
+<body 
+{
   margin: 0 auto;
   max-width: 960px;
 }
@@ -56,8 +57,10 @@ aside {
   padding: 1em;
 }
 
-body {
+body 
+{
   font-family: 'Open Sans', sans-serif;
+}
 }
 
 p {
